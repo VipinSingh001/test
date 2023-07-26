@@ -1,1 +1,2 @@
 this is indexfile
+line 2
